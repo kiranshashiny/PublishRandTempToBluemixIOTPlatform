@@ -3,16 +3,13 @@
 
 Publishes the simulated temperature (in this case a random number) to the IBM Bluemix Cloud
 
+Setup the Bluemix Watson IoT Starter. ( console.ng.bluemix.net )
 
-Setup the IoT Starter.
-
-Configure the Cloudant as shown in this blog.
-
-Set up the default database.
+Configure the CloudantNoSQL as shown in this blog.
 
 https://developer.ibm.com/recipes/tutorials/cloudant-nosql-db-as-historian-data-storage-for-ibm-watson-iot-parti/#r_step3
 
-
+<img width="1342" alt="screen shot 2017-01-23 at 10 44 52 am" src="https://cloud.githubusercontent.com/assets/14288989/22192330/2314f942-e159-11e6-8029-38665dc4537d.png">
 
 
 
